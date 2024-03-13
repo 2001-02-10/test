@@ -9,6 +9,7 @@ public class RPCControler {
 	public static void showHome() {
 		System.out.println("対戦回数を入力してください");
 		System.out.println("");
+		
 	}
 	
 	//対戦数表示
